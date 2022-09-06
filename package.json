@@ -1,5 +1,10 @@
 {
   "dependencies": {
-    "@openzeppelin/contracts": "^4.7.2"
+    "@openzeppelin/contracts": "^4.7.2",
+    "ganache": "^7.4.1",
+    "web3": "^1.7.5"
+  },
+  "devDependencies": {
+    "jest": "^29.0.2"
   }
 }
